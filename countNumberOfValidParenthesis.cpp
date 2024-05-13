@@ -20,7 +20,7 @@ int findCount(string str)
 int main(){
     stack<int> st;
     string paren =")))(";
-    int count=findCount(paren);
+    int .count=findCount(paren);
     cout<<count<<endl;
     return 0;
 }
